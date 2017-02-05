@@ -1,0 +1,14 @@
+#container{
+  height: 300px;
+  width: 300px;
+  background-color: white;
+}
+
+.square {
+  height: 30px;
+  width: 30px;
+  margin: 1;
+  background-color: black;
+  display: inline-block;
+  float: left;
+}
